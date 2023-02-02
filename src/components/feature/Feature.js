@@ -2,7 +2,7 @@ import React from 'react'
 import './feature.css'
 
 function Feature() {
-	retCTA
+	return (
 		<div>
 			Feature
 		</div>
